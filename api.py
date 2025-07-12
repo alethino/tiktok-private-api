@@ -1,6 +1,11 @@
 # tiktokapi
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api
 
+### contact me
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
+
+  
 # TikTok Private API
 
 # Tiktok (Source Code)

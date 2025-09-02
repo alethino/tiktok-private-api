@@ -4,8 +4,8 @@
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 # TikTok Private API
 
@@ -45,9 +45,9 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 
 
 ### contact me
-## Contact Telegram [@Neo_Galaxy] 
-https://t.me/Neo_Galaxy
+## Contact Telegram [@alethino] 
+https://t.me/alethino
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
